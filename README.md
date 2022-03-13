@@ -9,7 +9,7 @@
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Belyenochi/Belyenochi/discussions/new)!
 -   :cherry_blossom: The limit of my language is the limit of my world.
 
-#### 📊: [Monthly coding time](https://github.com/muety/wakapi)
+#### 📊: Monthly coding time
 <!--START_SECTION:waka-->
 
 ```text

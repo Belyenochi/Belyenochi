@@ -11,7 +11,7 @@
 
 ---
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+#### 📊: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```text
@@ -21,6 +21,12 @@ No activity tracked
 <!--END_SECTION:waka-->
 ---
 
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
+#### 📖 Reading & Learning
+* [设计数据密集型应用](https://github.com/Vonng/ddia/)
+* [MIT Theory of Distributed Systems (TDS)](http://groups.csail.mit.edu/tds/)
+* [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
+* [Operating Systems Study Guide](http://faculty.salina.k-state.edu/tim/ossg/index.html)
+* [Operating System Concepts](https://www.os-book.com/OS9/)
 
-[My Awesome Stars](AWESOME-STARS.md)
+#### 🎥 Movies
+* [ozark](https://www.netflix.com/gb/title/80117552)

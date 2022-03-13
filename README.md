@@ -1,4 +1,4 @@
-## <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>Hey, JasonZhu here! :wave:
+## Hey, JasonZhu here! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Belyenochi&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Belyenochi&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)

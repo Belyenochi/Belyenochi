@@ -40,15 +40,9 @@ Wish you a good-looking profile README!
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
-
-
----
-
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 #### :star2: [Projects starred by me](https://github.com/maguowei/starred)

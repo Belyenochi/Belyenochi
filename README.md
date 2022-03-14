@@ -4,7 +4,6 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Belyenochi&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 -   :hammer_and_pick: Golang / Kubernetes / Apisix / Scala / Scheme
--   :seedling: Taking courses & doing assignments at THU
 -   :hearts: Programming Lauguage 💻 & Esports 🎮 & BasketBall 🏀 & Music 🎧
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Belyenochi/Belyenochi/discussions/new)!
 -   :cherry_blossom: "The limit of my language is the limit of my world."

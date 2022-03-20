@@ -12,7 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go               1 hr 14 mins    █████████▒░░░░░░░░░░░░░░░   36.84 %
+Docker           1 hr 12 mins    █████████░░░░░░░░░░░░░░░░   35.52 %
+YAML             30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Makefile         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Docker File      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->

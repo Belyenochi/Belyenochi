@@ -18,7 +18,7 @@ Go · Kubernetes · Redis · a long-running weakness for programming languages.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 

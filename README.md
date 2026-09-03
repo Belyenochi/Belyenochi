@@ -5,7 +5,7 @@
   <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Belyenochi&show_icons=true" alt="GitHub stats">
 </picture>
 
--   :dart: Focus: LLM inference / Gateway / PLT
+-   :dart: Focus: LLM inference / Gateway / Programming Languages
 -   :hammer_and_pick: Golang / Scala / Scheme / Kubernetes / API-Gateway
 -   :hearts: Programming Language 💻 & Esports 🎮 & BasketBall 🏀 & Music 🎧
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Belyenochi/Belyenochi/discussions/new)!

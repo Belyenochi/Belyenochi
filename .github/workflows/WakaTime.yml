@@ -1,19 +1,29 @@
 name: Waka Readme
- 
+
 on:
+  # Was `master`, a branch this repo does not have — the default is `main`,
+  # so a push never triggered this.
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
- 
+    # 00:20 rather than 00:00 UTC: the top of the hour is the most contended
+    # slot on shared runners and this job has no deadline.
+    - cron: '20 0 * * *'
+
+permissions:
+  # The action commits the rendered block back into README.md.
+  contents: write
+
 jobs:
   update-readme:
-    name: Update this repo's README 
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: Belyenochi/waka-readme@master
+      # Was Belyenochi/waka-readme@master, a fork last touched 2022-02-27 --
+      # old enough to still be on a retired Node runtime. Upstream is
+      # maintained and the fork carried no changes worth keeping.
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
